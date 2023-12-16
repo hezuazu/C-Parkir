@@ -182,7 +182,7 @@ void tampilkanDataParkir() {
     cout << "[1] Default \n";
     cout << "[2] Waktu \n";
     cout << "[3] Plat \n";
-    cout << "Pilih Filter Pengurutan Data Parkir : ";
+    cout << "Pilih tampilan data : ";
     cin >> pilihan;
 
     switch (pilihan) {
